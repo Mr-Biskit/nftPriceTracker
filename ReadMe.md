@@ -20,3 +20,9 @@ npm install
 ```
 
 In order for the app to run correctly you will have to set up a .env account. You will need an alchemy API and a etherscan API key. You will also have to input the contract address for the NFT that you would like to track. Look at the .env.example for refrence.
+
+Once you have the .env setup you can run: 
+
+```node
+node app.js
+```
