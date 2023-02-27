@@ -1,0 +1,21 @@
+{
+  "name": "nfttrackerbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.4.3",
+    "async-retry": "^1.3.3",
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "firebase-admin": "^11.5.0",
+    "node-fetch": "^3.3.0"
+  }
+}
